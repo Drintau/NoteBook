@@ -8,8 +8,8 @@
 
 # 提交类型
 feat: 新功能  
-fix: 修复bug
-refactor: 重构（即不是新增功能，也不是修改bug的代码变动） 
+fix: 修复bug  
+refactor: 重构（即不是新增功能，也不是修改bug的代码变动）  
 perf: 性能优化  
 style: 格式（不影响代码运行的改动，例如去掉空格、改变缩进）  
 test: 添加、修改测试  
