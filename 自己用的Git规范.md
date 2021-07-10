@@ -16,4 +16,5 @@ test: 添加、修改测试
 docs: 文档  
 chore: 构建过程或辅助工具的变动  
 merge: 合并分支  
-revert: 回滚到上一个版本
+revert: 回滚到上一个版本  
+release: 发布版本
