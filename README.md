@@ -8,6 +8,9 @@
 ### 标记语言
 1. [Markdown语法](/其他语言/标记语言/Markdown语法.txt)
 
+### 脚本语言
+1. [Windows批处理bat语法](/其他语言/脚本语言/Windows批处理bat语法.md)
+
 ### 其他
 1. [自己用的Git规范](/自己用的Git规范.md)
 2. [开发工具-IDEA](/开发工具-IDEA.md)
