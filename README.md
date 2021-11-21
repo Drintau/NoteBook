@@ -6,12 +6,7 @@
 2. [ASCII，Unicode和UTF-8](/计算机基础知识/ASCII&Unicode&UTF-8.md)
 3. [Base64编码](/计算机基础知识/Base64编码.md)
 
-### 标记语言
-1. [Markdown语法](/其他语言/标记语言/Markdown语法.txt)
-
-### 脚本语言
-1. [Windows批处理bat语法](/其他语言/脚本语言/Windows批处理bat语法.md)
-
 ### 其他
-1. [自己用的Git规范](/自己用的Git规范.md)
-2. [开发工具-IDEA](/开发工具-IDEA.md)
+1. [Markdown语法](/其他/Markdown常用语法.md)
+2. [几种Git提交格式](/其他/几种Git提交格式.md)
+3. [开发工具IDEA](/其他/开发工具IDEA.md)
