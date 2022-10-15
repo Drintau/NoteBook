@@ -1,4 +1,4 @@
-# ASCII&Unicode&UTF-8
+# ASCII,Unicode,UTF-8
 
 ## 1. ASCII
 ASCII码使用7位或8位二进制数组合来表示128或256种可能的字符。  
