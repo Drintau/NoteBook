@@ -11,5 +11,5 @@
 1. [Git代码提交规范](/编程相关/Git代码提交规范.md)
 
 ### 其他
-1. [Markdown语法](/其他/Markdown常用语法.md)
+1. [Markdown语法](/其他/Markdown语法.md)
 2. [文件名规范](/其他/文件名规范.md)
