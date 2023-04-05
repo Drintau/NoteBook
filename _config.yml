@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+title: NoteBook
+description: 记事本
+show_downloads: false
+
+theme: jekyll-theme-architect
+
+lang: zh-CN
+
+# markdown处理器，不填或选填：kramdown 或 GFM
+markdown: GFM

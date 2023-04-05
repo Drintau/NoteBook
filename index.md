@@ -1,6 +1,7 @@
-# NoteBook
-
-记事本/手册：记录一些固定的、常用的基础知识点。
+---
+layout: default
+title: NoteBook
+---
 
 ### 计算机基础知识
 
